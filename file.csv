@@ -1,0 +1,17 @@
+# Users Table
+user_id,username,age
+1,john_doe,25
+2,jane_smith,30
+3,mike_jackson,22
+
+# Products Table
+product_id,product_name,price,stock_quantity
+101,Laptop,899.99,15
+102,Smartphone,499.99,30
+103,Headphones,79.99,50
+
+# Orders Table
+order_id,user_id,product_id,quantity
+201,1,101,2
+202,2,102,1
+203,3,103,3
